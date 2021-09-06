@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cari-Kesehatan/static/css/main.a617e044.chunk.css",
+    "main.js": "/Cari-Kesehatan/static/js/main.895e82eb.chunk.js",
+    "main.js.map": "/Cari-Kesehatan/static/js/main.895e82eb.chunk.js.map",
+    "runtime-main.js": "/Cari-Kesehatan/static/js/runtime-main.c81c058b.js",
+    "runtime-main.js.map": "/Cari-Kesehatan/static/js/runtime-main.c81c058b.js.map",
+    "static/js/2.5f01066d.chunk.js": "/Cari-Kesehatan/static/js/2.5f01066d.chunk.js",
+    "static/js/2.5f01066d.chunk.js.map": "/Cari-Kesehatan/static/js/2.5f01066d.chunk.js.map",
+    "static/js/3.a9539dad.chunk.js": "/Cari-Kesehatan/static/js/3.a9539dad.chunk.js",
+    "static/js/3.a9539dad.chunk.js.map": "/Cari-Kesehatan/static/js/3.a9539dad.chunk.js.map",
+    "index.html": "/Cari-Kesehatan/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Cari-Kesehatan/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5f01066d.chunk.js.LICENSE.txt": "/Cari-Kesehatan/static/js/2.5f01066d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Cari-Kesehatan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c81c058b.js",
+    "static/js/2.5f01066d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.895e82eb.chunk.js"
+  ]
+}
